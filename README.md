@@ -3,7 +3,7 @@
 ## Network Diagram
 
 ### Figure 2-1. Illustration of a three-tier network topology with the main site (A) and other sites (B, C, D and E, respectively) in the cloud, showing placement of appliances and security devices.
-<img width="500" src="https://github.com/user-attachments/assets/8c3e27e8-c127-4455-b817-d87c72956a20" />
+<img width="1000" src="https://github.com/user-attachments/assets/8c3e27e8-c127-4455-b817-d87c72956a20" />
 
 - The diagram shows a security implementation with essential appliances and devices within a partial mesh topology.
 - The main site (A) includes a network edge with an SD-WAN edge router, next-generation firewall (NGFW), and core switches.
