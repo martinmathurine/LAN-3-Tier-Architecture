@@ -293,4 +293,8 @@ Overall, this exercise improved my skills in implementing and managing secure ne
 
 [36] ‘How IPsec Site-to-Site VPN Tunnels Work’. CBT Nuggets, https://www.cbtnuggets.com/blog/technology/networking/how-ipsec-site-to-site-vpn-tunnels-work. Accessed 18 Feb 2023.
 
+## Appendix B
+
+### Figure B-1. Scenario case study.
+<img width="500" src="https://github.com/user-attachments/assets/13ca6a7d-4cb4-498a-a625-8e0d71d613e3" />
 
